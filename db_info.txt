@@ -1,4 +1,1 @@
-host=sql6.freemysqlhosting.net
-user=sql6450331
-password=v63XvDdue3
-database=sql6450331
+
